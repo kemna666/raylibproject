@@ -1,0 +1,13 @@
+#加载平台数据
+#底部平台
+[platform]
+position ={106,236,11,40}
+image = Assets\\platforms\\4.png
+
+position = {140,236,11,40}
+image = Assets\\platforms\\4.png
+[charactor]
+positionchar = {10,700};
+[Boss]
+positionboss = {360,360};
+ImageBoss = Assets\\boss\\spiltedboss1\\
